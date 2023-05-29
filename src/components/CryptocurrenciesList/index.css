@@ -1,0 +1,38 @@
+/* Write your CSS code here */
+
+.list-container {
+  border-style: solid;
+  border-color: #00e7ff;
+  width: 90%;
+  padding: 0px;
+}
+
+.heading {
+  color: #ffffff;
+  background-color: #092e33;
+  width: 100%;
+}
+.align {
+  display: flex;
+  padding: 1em;
+}
+
+.align {
+  display: flex;
+  justify-content: space-between;
+  color: #ffffff;
+}
+
+.currency {
+  width: 30%;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 0.5em;
+}
+
+.logo {
+  height: 55px;
+  width: 55px;
+  border-radius: 50%;
+  margin-right: 0.5em;
+}
